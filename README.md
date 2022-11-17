@@ -2,11 +2,9 @@
 
 Neste projeto da disciplina eletiva de **Machine Learning**, foi desenvolvida uma análise em cima do **modelo de precificação** do **Airbnb**.
 
-<div style="text-align:center">
-
-![Airbnb_Logo svg](https://user-images.githubusercontent.com/63018319/202255699-3b3eecc3-1df2-4d0f-a589-d7c8a623599b.png)
-
-</div>
+<p align="center">
+<img width=50% height=50% alt="Mockup 2" src="https://user-images.githubusercontent.com/63018319/202255699-3b3eecc3-1df2-4d0f-a589-d7c8a623599b.png">
+</p>
 
 ## Integrantes da dupla
 
