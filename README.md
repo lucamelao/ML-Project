@@ -11,6 +11,14 @@ Neste projeto da disciplina eletiva de **Machine Learning**, foi desenvolvida um
 - Luca Coutinho Melão
 - Matheus Kwon
 
+## Bibliotecas e dependências
+
+Rode o comando abaixo no terminal:
+
+```shell
+pip3 install -r requirements.txt
+```
+
 ## Dataset
 
 Base de dados: **Airbnb Open Data**
